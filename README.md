@@ -9,7 +9,7 @@
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM: 
-'''
+```
 
 
 #include <stdio.h>
@@ -43,7 +43,7 @@ return 0;
 }
 
 
-'''
+```
 ## OUTPUT:
 ![Screenshot 2024-10-09 161038](https://github.com/user-attachments/assets/b35f1401-265c-4af0-8b0c-d9741de2d161)
 
